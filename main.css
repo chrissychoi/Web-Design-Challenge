@@ -1,0 +1,28 @@
+.box {
+    min-height: 50px;
+    padding: 5px;
+    margin: 5px;
+    font-weight: 800;
+    color: rgb(158, 154, 154);
+  }
+  
+  .white {
+      background: white;
+  }
+  .skyblue {
+    background: deepskyblue;
+  }
+  
+  .purple {
+    background: rebeccapurple;
+  }
+  
+  .red {
+    background: indianred;
+  }
+  
+ 
+.navbar-nav.ml-auto>li>a:focus,
+.navbar-nav.ml-auto>li>a:hover{
+    background-color: grey;
+  }
